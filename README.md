@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/jharede22"/>
-    <img height=240cm src="https://github-readme-stats.vercel.app/api?username=jharede22&theme=midnight-purple&show_icons=true"/>
-    <img height=240cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharede22&theme=midnight-purple&show_icons=true"/>
+    <img height=230cm src="https://github-readme-stats.vercel.app/api?username=jharede22&theme=midnight-purple&show_icons=true"/>
+    <img height=230cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=jharede22&theme=midnight-purple&show_icons=true"/>
 </div>
                                                                                                                                       
 <div>
